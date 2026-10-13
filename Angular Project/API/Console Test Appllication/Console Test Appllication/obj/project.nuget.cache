@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x3AQRCM09L4=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Angular Project\\API\\Console Test Appllication\\Console Test Appllication\\Console Test Appllication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\htmlagilitypack\\1.13.0\\htmlagilitypack.1.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+@WebAPI_AtlasCopCo_HostAddress = http://localhost:5044
+
+GET {{WebAPI_AtlasCopCo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

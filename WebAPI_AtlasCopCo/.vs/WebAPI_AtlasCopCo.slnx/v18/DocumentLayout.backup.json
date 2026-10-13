@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\WebAPI_AtlasCopCo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\repository\\implment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\repository\\implment\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\repository\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\repository\\interface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\model\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\model\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\dbcontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|c:\\projects\\webapi_atlascopco\\webapi_atlascopco\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17EEB0EE-EC2C-4C5C-BFA8-5B4235899EE8}|WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo.csproj|solutionrelative:webapi_atlascopco\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:37:41.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Repository\\Interface\\IStudent.cs",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\Repository\\Interface\\IStudent.cs",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Repository\\Interface\\IStudent.cs",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\Repository\\Interface\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:23:30.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Repository\\Implment\\Student.cs",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\Repository\\Implment\\Student.cs",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Repository\\Implment\\Student.cs",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\Repository\\Implment\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:23:15.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\Program.cs",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Program.cs",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:22:19.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\appsettings.json",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\appsettings.json",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T18:21:12.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Students.cs",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Model\\Students.cs",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\Model\\Students.cs",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\Model\\Students.cs",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\Model\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:19:30.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\DBContext\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "WebAPI_AtlasCopCo\\DBContext\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Projects\\WebAPI_AtlasCopCo\\WebAPI_AtlasCopCo\\DBContext\\ApplicationDBContext.cs",
+              "RelativeToolTip": "WebAPI_AtlasCopCo\\DBContext\\ApplicationDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:19:13.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

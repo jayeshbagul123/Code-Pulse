@@ -1,0 +1,17 @@
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\bin\Debug\net8.0\Console Test Appllication.exe
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\bin\Debug\net8.0\Console Test Appllication.deps.json
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\bin\Debug\net8.0\Console Test Appllication.runtimeconfig.json
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\bin\Debug\net8.0\Console Test Appllication.dll
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\bin\Debug\net8.0\Console Test Appllication.pdb
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.csproj.AssemblyReference.cache
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.AssemblyInfoInputs.cache
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.AssemblyInfo.cs
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.csproj.CoreCompileInputs.cache
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console .89D16680.Up2Date
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.dll
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\refint\Console Test Appllication.dll
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.pdb
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\Console Test Appllication.genruntimeconfig.cache
+C:\Projects\Angular Project\API\Console Test Appllication\Console Test Appllication\obj\Debug\net8.0\ref\Console Test Appllication.dll
